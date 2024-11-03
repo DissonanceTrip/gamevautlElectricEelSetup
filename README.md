@@ -2,7 +2,6 @@
 
 [TrueNAS Scale](https://www.truenas.com/truenas-scale/) is an open-source, hyper-converged storage platform that combines the reliability of TrueNAS with the versatility of Linux, providing a unified solution for storage, virtualization, and containerization in a single, easy-to-manage system.
 
-Setting up a GameVault Server on TrueNAS Scale is just a click away by using our template from the [Truecharts Catalog](https://truecharts.org/manual/SCALE/guides/getting-started),a community based catalog for TrueNAS Scale.
 
 # Prerequisites
 
