@@ -1,3 +1,8 @@
+# Disclaimer: THIS ASSUMES YOU KNOW WHAT YOU ARE DOING WITH TRUENAS/LINUX SYSTEMS
+I will revise this more later to be a true start-to-finish guide for all skill levels. Do not blindly follow this guide or you may break your system.
+
+
+
 # Using TrueNAS Scale
 
 [TrueNAS Scale](https://www.truenas.com/truenas-scale/) is an open-source, hyper-converged storage platform that combines the reliability of TrueNAS with the versatility of Linux, providing a unified solution for storage, virtualization, and containerization in a single, easy-to-manage system.
